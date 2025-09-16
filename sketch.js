@@ -11,7 +11,7 @@ function setup() {
   
   // "dip a brush" into color once
   // the color will remain the same unless I change it again
-  fill("red");
+  fill("yellow");
 }
 
 function draw() {
